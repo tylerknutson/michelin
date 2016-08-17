@@ -1,0 +1,526 @@
+michelin_year,restaurant_name,michelin_stars,prior_stars,event_flag,area,flag
+2016,The French Laundry,3,3,None,SF,Include
+2016,The Restaurant At Meadowood,3,3,None,SF,Include
+2016,Manresa,3,2,Gained 1 Star(s),SF,Include
+2016,Coi,2,2,None,SF,Include
+2016,Saison,3,3,None,SF,Include
+2016,Benu,3,3,None,SF,Include
+2016,Baumé,2,2,None,SF,Include
+2016,Quince,2,2,None,SF,Include
+2016,Atelier Crenn,2,2,None,SF,Include
+2016,Acquerello,2,2,None,SF,Include
+2016,Commis,2,1,Gained 1 Star(s),SF,Include
+2016,Aziza,1,1,None,SF,Include
+2016,SolBar,1,1,None,SF,Include
+2016,Bouchon,1,1,None,SF,Include
+2016,Terra,1,1,None,SF,Exclude
+2016,Madrona Manor,1,1,None,SF,Exclude
+2016,Ame,1,1,None,SF,Include
+2016,Plumed Horse,1,1,None,SF,Include
+2016,Farmhouse Inn Restaurant,1,1,None,SF,Include
+2016,Chez TJ,1,1,None,SF,Include
+2016,La Toque,1,1,None,SF,Include
+2016,Auberge du Soleil,1,1,None,SF,Exclude
+2016,Luce,1,1,None,SF,Exclude
+2016,Campton Place Restaurant,2,1,Gained 1 Star(s),SF,Include
+2016,Gary Danko,1,1,None,SF,Include
+2016,The Village Pub,1,1,None,SF,Include
+2016,Spruce,1,1,None,SF,Include
+2016,Cyrus,0,0,None,SF,Exclude
+2016,Boulevard,0,1,Lost 1 Star(s),SF,Include
+2016,Wakuriya,1,1,None,SF,Include
+2016,La Folie,0,1,Lost 1 Star(s),SF,Include
+2016,Michael Mina,1,1,None,SF,Include
+2016,Madera,0,1,Lost 1 Star(s),SF,Include
+2016,Terrapin Creek Cafe & Restaurant,1,1,None,SF,Include
+2016,Sons & Daughters,1,1,None,SF,Include
+2016,Redd,0,0,None,SF,Include
+2016,Keiko  Nob Hill,1,1,None,SF,Include
+2016,Masas,0,0,None,SF,Include
+2016,All Spice,1,1,None,SF,Include
+2016,SPQR,1,1,None,SF,Include
+2016,Ubuntu,0,0,None,SF,Exclude
+2016,Alexanders Steakhouse,0,0,None,SF,Include
+2016,Frances,0,0,None,SF,Include
+2016,étoile,0,0,None,SF,Exclude
+2016,One Market Restaurant,0,0,None,SF,Include
+2016,Fleur de Lys,0,0,None,SF,Exclude
+2016,Santé,0,0,None,SF,Include
+2016,State Bird Provisions,1,1,None,SF,Include
+2016,La Costanera,0,0,None,SF,Include
+2016,The Dining Room at the Ritz Carlton,0,0,None,SF,Exclude
+2016,Applewood,0,0,None,SF,Exclude
+2016,Dio Deka,0,0,None,SF,Include
+2016,KUSAKABE,1,1,None,SF,Include
+2016,Murray Circle,0,0,None,SF,Include
+2016,Lazy Bear,1,0,Gained 1 Star(s),SF,Include
+2016,Commonwealth,1,0,Gained 1 Star(s),SF,Include
+2016,Rasa,1,0,Gained 1 Star(s),SF,Include
+2016,Sushi Yoshizumi,1,0,Gained 1 Star(s),SF,Include
+2016,Mourad Restaurant,1,0,Gained 1 Star(s),SF,Include
+2016,Aster,1,0,Gained 1 Star(s),SF,Include
+2016,Californios,1,0,Gained 1 Star(s),SF,Include
+2016,Octavia,1,0,Gained 1 Star(s),SF,Include
+2016,ALs Place,1,0,Gained 1 Star(s),SF,Include
+2016,Trevese,0,0,None,SF,Exclude
+2016,El Paseo,0,0,None,SF,Include
+2016,Omakase,1,0,Gained 1 Star(s),SF,Include
+2016,Lord Stanley,1,0,Gained 1 Star(s),SF,Include
+2016,Nico,1,0,Gained 1 Star(s),SF,Include
+2016,Wako Japanese Restaurant,1,0,Gained 1 Star(s),SF,Include
+2016,Range Restaurant,0,0,None,SF,Include
+2016,Mirepoix,0,0,None,SF,Exclude
+2016,Fifth Floor,0,0,None,SF,Exclude
+2016,Chez Panisse,0,0,None,SF,Include
+2016,Kin Khao,1,0,Gained 1 Star(s),SF,Include
+2016,Maruya,0,1,Lost 1 Star(s),SF,Include
+2015,The French Laundry,3,3,None,SF,Include
+2015,The Restaurant At Meadowood,3,3,None,SF,Include
+2015,Manresa,2,2,None,SF,Include
+2015,Coi,2,2,None,SF,Include
+2015,Saison,3,2,Gained 1 Star(s),SF,Include
+2015,Benu,3,2,Gained 1 Star(s),SF,Include
+2015,Baumé,2,2,None,SF,Include
+2015,Quince,2,2,None,SF,Include
+2015,Atelier Crenn,2,2,None,SF,Include
+2015,Acquerello,2,1,Gained 1 Star(s),SF,Include
+2015,Commis,1,1,None,SF,Include
+2015,Aziza,1,1,None,SF,Include
+2015,SolBar,1,1,None,SF,Include
+2015,Bouchon,1,1,None,SF,Include
+2015,Terra,1,1,None,SF,Exclude
+2015,Madrona Manor,1,1,None,SF,Exclude
+2015,Ame,1,1,None,SF,Include
+2015,Plumed Horse,1,1,None,SF,Include
+2015,Farmhouse Inn Restaurant,1,1,None,SF,Include
+2015,Chez TJ,1,1,None,SF,Include
+2015,La Toque,1,1,None,SF,Include
+2015,Auberge du Soleil,1,1,None,SF,Exclude
+2015,Luce,1,1,None,SF,Exclude
+2015,Campton Place Restaurant,1,1,None,SF,Include
+2015,Gary Danko,1,1,None,SF,Include
+2015,The Village Pub,1,1,None,SF,Include
+2015,Spruce,1,1,None,SF,Include
+2015,Cyrus,0,0,None,SF,Exclude
+2015,Boulevard,1,1,None,SF,Include
+2015,Wakuriya,1,1,None,SF,Include
+2015,La Folie,1,1,None,SF,Include
+2015,Michael Mina,1,1,None,SF,Include
+2015,Madera,1,1,None,SF,Include
+2015,Terrapin Creek Cafe & Restaurant,1,1,None,SF,Include
+2015,Sons & Daughters,1,1,None,SF,Include
+2015,Redd,0,0,None,SF,Include
+2015,Keiko  Nob Hill,1,1,None,SF,Include
+2015,Masas,0,0,None,SF,Include
+2015,All Spice,1,1,None,SF,Include
+2015,SPQR,1,1,None,SF,Include
+2015,Ubuntu,0,0,None,SF,Exclude
+2015,Alexanders Steakhouse,0,0,None,SF,Include
+2015,Frances,0,0,None,SF,Include
+2015,étoile,0,0,None,SF,Exclude
+2015,One Market Restaurant,0,0,None,SF,Include
+2015,Fleur de Lys,0,0,None,SF,Exclude
+2015,Santé,0,0,None,SF,Include
+2015,State Bird Provisions,1,1,None,SF,Include
+2015,La Costanera,0,0,None,SF,Include
+2015,The Dining Room at the Ritz Carlton,0,0,None,SF,Exclude
+2015,Applewood,0,0,None,SF,Exclude
+2015,Dio Deka,0,0,None,SF,Include
+2015,KUSAKABE,1,0,Gained 1 Star(s),SF,Include
+2015,Murray Circle,0,0,None,SF,Include
+2015,Lazy Bear,0,0,None,SF,Include
+2015,Commonwealth,0,0,None,SF,Include
+2015,Rasa,0,0,None,SF,Include
+2015,Sushi Yoshizumi,0,0,None,SF,Include
+2015,Mourad Restaurant,0,0,None,SF,Include
+2015,Aster,0,0,None,SF,Include
+2015,Californios,0,0,None,SF,Include
+2015,Octavia,0,0,None,SF,Include
+2015,ALs Place,0,0,None,SF,Include
+2015,Trevese,0,0,None,SF,Exclude
+2015,El Paseo,0,0,None,SF,Include
+2015,Omakase,0,0,None,SF,Include
+2015,Lord Stanley,0,0,None,SF,Include
+2015,Nico,0,0,None,SF,Include
+2015,Wako Japanese Restaurant,0,0,None,SF,Include
+2015,Range Restaurant,0,0,None,SF,Include
+2015,Mirepoix,0,0,None,SF,Exclude
+2015,Fifth Floor,0,0,None,SF,Exclude
+2015,Chez Panisse,0,0,None,SF,Include
+2015,Kin Khao,0,0,None,SF,Include
+2015,Maruya,1,0,Gained 1 Star(s),SF,Include
+2014,The French Laundry,3,3,None,SF,Include
+2014,The Restaurant At Meadowood,3,3,None,SF,Include
+2014,Manresa,2,2,None,SF,Include
+2014,Coi,2,2,None,SF,Include
+2014,Saison,2,2,None,SF,Include
+2014,Benu,2,2,None,SF,Include
+2014,Baumé,2,2,None,SF,Include
+2014,Quince,2,1,Gained 1 Star(s),SF,Include
+2014,Atelier Crenn,2,2,None,SF,Include
+2014,Acquerello,1,1,None,SF,Include
+2014,Commis,1,1,None,SF,Include
+2014,Aziza,1,1,None,SF,Include
+2014,SolBar,1,1,None,SF,Include
+2014,Bouchon,1,1,None,SF,Include
+2014,Terra,1,1,None,SF,Exclude
+2014,Madrona Manor,1,1,None,SF,Exclude
+2014,Ame,1,1,None,SF,Include
+2014,Plumed Horse,1,1,None,SF,Include
+2014,Farmhouse Inn Restaurant,1,1,None,SF,Include
+2014,Chez TJ,1,1,None,SF,Include
+2014,La Toque,1,1,None,SF,Include
+2014,Auberge du Soleil,1,1,None,SF,Exclude
+2014,Luce,1,1,None,SF,Exclude
+2014,Campton Place Restaurant,1,1,None,SF,Include
+2014,Gary Danko,1,1,None,SF,Include
+2014,The Village Pub,1,1,None,SF,Include
+2014,Spruce,1,1,None,SF,Include
+2014,Cyrus,0,0,None,SF,Exclude
+2014,Boulevard,1,1,None,SF,Include
+2014,Wakuriya,1,1,None,SF,Include
+2014,La Folie,1,1,None,SF,Include
+2014,Michael Mina,1,1,None,SF,Include
+2014,Madera,1,1,None,SF,Include
+2014,Terrapin Creek Cafe & Restaurant,1,1,None,SF,Include
+2014,Sons & Daughters,1,1,None,SF,Include
+2014,Redd,0,1,Lost 1 Star(s),SF,Include
+2014,Keiko  Nob Hill,1,1,None,SF,Include
+2014,Masas,0,1,Lost 1 Star(s),SF,Include
+2014,All Spice,1,1,None,SF,Include
+2014,SPQR,1,1,None,SF,Include
+2014,Ubuntu,0,0,None,SF,Exclude
+2014,Alexanders Steakhouse,0,1,Lost 1 Star(s),SF,Include
+2014,Frances,0,1,Lost 1 Star(s),SF,Include
+2014,étoile,0,0,None,SF,Exclude
+2014,One Market Restaurant,0,0,None,SF,Include
+2014,Fleur de Lys,0,0,None,SF,Exclude
+2014,Santé,0,0,None,SF,Include
+2014,State Bird Provisions,1,0,Gained 1 Star(s),SF,Include
+2014,La Costanera,0,1,Lost 1 Star(s),SF,Include
+2014,The Dining Room at the Ritz Carlton,0,0,None,SF,Exclude
+2014,Applewood,0,0,None,SF,Exclude
+2014,Dio Deka,0,0,None,SF,Include
+2014,KUSAKABE,0,0,None,SF,Include
+2014,Murray Circle,0,0,None,SF,Include
+2014,Lazy Bear,0,0,None,SF,Include
+2014,Commonwealth,0,0,None,SF,Include
+2014,Rasa,0,0,None,SF,Include
+2014,Sushi Yoshizumi,0,0,None,SF,Include
+2014,Mourad Restaurant,0,0,None,SF,Include
+2014,Aster,0,0,None,SF,Include
+2014,Californios,0,0,None,SF,Include
+2014,Octavia,0,0,None,SF,Include
+2014,ALs Place,0,0,None,SF,Include
+2014,Trevese,0,0,None,SF,Exclude
+2014,El Paseo,0,0,None,SF,Include
+2014,Omakase,0,0,None,SF,Include
+2014,Lord Stanley,0,0,None,SF,Include
+2014,Nico,0,0,None,SF,Include
+2014,Wako Japanese Restaurant,0,0,None,SF,Include
+2014,Range Restaurant,0,0,None,SF,Include
+2014,Mirepoix,0,0,None,SF,Exclude
+2014,Fifth Floor,0,0,None,SF,Exclude
+2014,Chez Panisse,0,0,None,SF,Include
+2014,Kin Khao,0,0,None,SF,Include
+2014,Maruya,0,0,None,SF,Include
+2013,The French Laundry,3,3,None,SF,Include
+2013,The Restaurant At Meadowood,3,3,None,SF,Include
+2013,Manresa,2,2,None,SF,Include
+2013,Coi,2,2,None,SF,Include
+2013,Saison,2,2,None,SF,Include
+2013,Benu,2,2,None,SF,Include
+2013,Baumé,2,2,None,SF,Include
+2013,Quince,1,1,None,SF,Include
+2013,Atelier Crenn,2,1,Gained 1 Star(s),SF,Include
+2013,Acquerello,1,1,None,SF,Include
+2013,Commis,1,1,None,SF,Include
+2013,Aziza,1,1,None,SF,Include
+2013,SolBar,1,1,None,SF,Include
+2013,Bouchon,1,1,None,SF,Include
+2013,Terra,1,1,None,SF,Exclude
+2013,Madrona Manor,1,1,None,SF,Exclude
+2013,Ame,1,1,None,SF,Include
+2013,Plumed Horse,1,1,None,SF,Include
+2013,Farmhouse Inn Restaurant,1,1,None,SF,Include
+2013,Chez TJ,1,1,None,SF,Include
+2013,La Toque,1,1,None,SF,Include
+2013,Auberge du Soleil,1,1,None,SF,Exclude
+2013,Luce,1,1,None,SF,Exclude
+2013,Campton Place Restaurant,1,1,None,SF,Include
+2013,Gary Danko,1,1,None,SF,Include
+2013,The Village Pub,1,1,None,SF,Include
+2013,Spruce,1,1,None,SF,Include
+2013,Cyrus,0,2,Lost 2 Star(s),SF,Exclude
+2013,Boulevard,1,1,None,SF,Include
+2013,Wakuriya,1,1,None,SF,Include
+2013,La Folie,1,1,None,SF,Include
+2013,Michael Mina,1,1,None,SF,Include
+2013,Madera,1,1,None,SF,Include
+2013,Terrapin Creek Cafe & Restaurant,1,1,None,SF,Include
+2013,Sons & Daughters,1,1,None,SF,Include
+2013,Redd,1,1,None,SF,Include
+2013,Keiko  Nob Hill,1,0,Gained 1 Star(s),SF,Include
+2013,Masas,1,1,None,SF,Include
+2013,All Spice,1,0,Gained 1 Star(s),SF,Include
+2013,SPQR,1,0,Gained 1 Star(s),SF,Include
+2013,Ubuntu,0,1,Lost 1 Star(s),SF,Exclude
+2013,Alexanders Steakhouse,1,1,None,SF,Include
+2013,Frances,1,1,None,SF,Include
+2013,étoile,0,1,Lost 1 Star(s),SF,Exclude
+2013,One Market Restaurant,0,1,Lost 1 Star(s),SF,Include
+2013,Fleur de Lys,0,1,Lost 1 Star(s),SF,Exclude
+2013,Santé,0,1,Lost 1 Star(s),SF,Include
+2013,State Bird Provisions,0,0,None,SF,Include
+2013,La Costanera,1,1,None,SF,Include
+2013,The Dining Room at the Ritz Carlton,0,0,None,SF,Exclude
+2013,Applewood,0,1,Lost 1 Star(s),SF,Exclude
+2013,Dio Deka,0,1,Lost 1 Star(s),SF,Include
+2013,KUSAKABE,0,0,None,SF,Include
+2013,Murray Circle,0,0,None,SF,Include
+2013,Lazy Bear,0,0,None,SF,Include
+2013,Commonwealth,0,0,None,SF,Include
+2013,Rasa,0,0,None,SF,Include
+2013,Sushi Yoshizumi,0,0,None,SF,Include
+2013,Mourad Restaurant,0,0,None,SF,Include
+2013,Aster,0,0,None,SF,Include
+2013,Californios,0,0,None,SF,Include
+2013,Octavia,0,0,None,SF,Include
+2013,ALs Place,0,0,None,SF,Include
+2013,Trevese,0,0,None,SF,Exclude
+2013,El Paseo,0,0,None,SF,Include
+2013,Omakase,0,0,None,SF,Include
+2013,Lord Stanley,0,0,None,SF,Include
+2013,Nico,0,0,None,SF,Include
+2013,Wako Japanese Restaurant,0,0,None,SF,Include
+2013,Range Restaurant,0,0,None,SF,Include
+2013,Mirepoix,0,0,None,SF,Exclude
+2013,Fifth Floor,0,0,None,SF,Exclude
+2013,Chez Panisse,0,0,None,SF,Include
+2013,Kin Khao,0,0,None,SF,Include
+2013,Maruya,0,0,None,SF,Include
+2012,The French Laundry,3,3,None,SF,Include
+2012,The Restaurant At Meadowood,3,3,None,SF,Include
+2012,Manresa,2,2,None,SF,Include
+2012,Coi,2,2,None,SF,Include
+2012,Saison,2,1,Gained 1 Star(s),SF,Include
+2012,Benu,2,0,Gained 2 Star(s),SF,Include
+2012,Baumé,2,1,Gained 1 Star(s),SF,Include
+2012,Quince,1,1,None,SF,Include
+2012,Atelier Crenn,1,0,Gained 1 Star(s),SF,Include
+2012,Acquerello,1,1,None,SF,Include
+2012,Commis,1,1,None,SF,Include
+2012,Aziza,1,1,None,SF,Include
+2012,SolBar,1,1,None,SF,Include
+2012,Bouchon,1,1,None,SF,Include
+2012,Terra,1,1,None,SF,Exclude
+2012,Madrona Manor,1,1,None,SF,Exclude
+2012,Ame,1,1,None,SF,Include
+2012,Plumed Horse,1,1,None,SF,Include
+2012,Farmhouse Inn Restaurant,1,1,None,SF,Include
+2012,Chez TJ,1,1,None,SF,Include
+2012,La Toque,1,1,None,SF,Include
+2012,Auberge du Soleil,1,1,None,SF,Exclude
+2012,Luce,1,1,None,SF,Exclude
+2012,Campton Place Restaurant,1,1,None,SF,Include
+2012,Gary Danko,1,1,None,SF,Include
+2012,The Village Pub,1,1,None,SF,Include
+2012,Spruce,1,1,None,SF,Include
+2012,Cyrus,2,2,None,SF,Exclude
+2012,Boulevard,1,1,None,SF,Include
+2012,Wakuriya,1,1,None,SF,Include
+2012,La Folie,1,1,None,SF,Include
+2012,Michael Mina,1,0,Gained 1 Star(s),SF,Include
+2012,Madera,1,1,None,SF,Include
+2012,Terrapin Creek Cafe & Restaurant,1,0,Gained 1 Star(s),SF,Include
+2012,Sons & Daughters,1,0,Gained 1 Star(s),SF,Include
+2012,Redd,1,1,None,SF,Include
+2012,Keiko  Nob Hill,0,0,None,SF,Include
+2012,Masas,1,1,None,SF,Include
+2012,All Spice,0,0,None,SF,Include
+2012,SPQR,0,0,None,SF,Include
+2012,Ubuntu,1,1,None,SF,Exclude
+2012,Alexanders Steakhouse,1,1,None,SF,Include
+2012,Frances,1,1,None,SF,Include
+2012,étoile,1,1,None,SF,Exclude
+2012,One Market Restaurant,1,1,None,SF,Include
+2012,Fleur de Lys,1,1,None,SF,Exclude
+2012,Santé,1,1,None,SF,Include
+2012,State Bird Provisions,0,0,None,SF,Include
+2012,La Costanera,1,0,Gained 1 Star(s),SF,Include
+2012,The Dining Room at the Ritz Carlton,0,1,Lost 1 Star(s),SF,Exclude
+2012,Applewood,1,1,None,SF,Exclude
+2012,Dio Deka,1,1,None,SF,Include
+2012,KUSAKABE,0,0,None,SF,Include
+2012,Murray Circle,0,1,Lost 1 Star(s),SF,Include
+2012,Lazy Bear,0,0,None,SF,Include
+2012,Commonwealth,0,0,None,SF,Include
+2012,Rasa,0,0,None,SF,Include
+2012,Sushi Yoshizumi,0,0,None,SF,Include
+2012,Mourad Restaurant,0,0,None,SF,Include
+2012,Aster,0,0,None,SF,Include
+2012,Californios,0,0,None,SF,Include
+2012,Octavia,0,0,None,SF,Include
+2012,ALs Place,0,0,None,SF,Include
+2012,Trevese,0,0,None,SF,Exclude
+2012,El Paseo,0,0,None,SF,Include
+2012,Omakase,0,0,None,SF,Include
+2012,Lord Stanley,0,0,None,SF,Include
+2012,Nico,0,0,None,SF,Include
+2012,Wako Japanese Restaurant,0,0,None,SF,Include
+2012,Range Restaurant,0,0,None,SF,Include
+2012,Mirepoix,0,1,Lost 1 Star(s),SF,Exclude
+2012,Fifth Floor,0,0,None,SF,Exclude
+2012,Chez Panisse,0,0,None,SF,Include
+2012,Kin Khao,0,0,None,SF,Include
+2012,Maruya,0,0,None,SF,Include
+2011,The French Laundry,3,3,None,SF,Include
+2011,The Restaurant At Meadowood,3,2,Gained 1 Star(s),SF,Include
+2011,Manresa,2,2,None,SF,Include
+2011,Coi,2,2,None,SF,Include
+2011,Saison,1,0,Gained 1 Star(s),SF,Include
+2011,Benu,0,0,None,SF,Include
+2011,Baumé,1,0,Gained 1 Star(s),SF,Include
+2011,Quince,1,1,None,SF,Include
+2011,Atelier Crenn,0,0,None,SF,Include
+2011,Acquerello,1,1,None,SF,Include
+2011,Commis,1,1,None,SF,Include
+2011,Aziza,1,1,None,SF,Include
+2011,SolBar,1,1,None,SF,Include
+2011,Bouchon,1,1,None,SF,Include
+2011,Terra,1,1,None,SF,Exclude
+2011,Madrona Manor,1,1,None,SF,Exclude
+2011,Ame,1,1,None,SF,Include
+2011,Plumed Horse,1,1,None,SF,Include
+2011,Farmhouse Inn Restaurant,1,1,None,SF,Include
+2011,Chez TJ,1,1,None,SF,Include
+2011,La Toque,1,1,None,SF,Include
+2011,Auberge du Soleil,1,1,None,SF,Exclude
+2011,Luce,1,1,None,SF,Exclude
+2011,Campton Place Restaurant,1,0,Gained 1 Star(s),SF,Include
+2011,Gary Danko,1,1,None,SF,Include
+2011,The Village Pub,1,1,None,SF,Include
+2011,Spruce,1,0,Gained 1 Star(s),SF,Include
+2011,Cyrus,2,2,None,SF,Exclude
+2011,Boulevard,1,1,None,SF,Include
+2011,Wakuriya,1,0,Gained 1 Star(s),SF,Include
+2011,La Folie,1,1,None,SF,Include
+2011,Michael Mina,0,1,Lost 1 Star(s),SF,Include
+2011,Madera,1,0,Gained 1 Star(s),SF,Include
+2011,Terrapin Creek Cafe & Restaurant,0,0,None,SF,Include
+2011,Sons & Daughters,0,0,None,SF,Include
+2011,Redd,1,1,None,SF,Include
+2011,Keiko  Nob Hill,0,0,None,SF,Include
+2011,Masas,1,1,None,SF,Include
+2011,All Spice,0,0,None,SF,Include
+2011,SPQR,0,0,None,SF,Include
+2011,Ubuntu,1,1,None,SF,Exclude
+2011,Alexanders Steakhouse,1,0,Gained 1 Star(s),SF,Include
+2011,Frances,1,0,Gained 1 Star(s),SF,Include
+2011,étoile,1,1,None,SF,Exclude
+2011,One Market Restaurant,1,1,None,SF,Include
+2011,Fleur de Lys,1,1,None,SF,Exclude
+2011,Santé,1,1,None,SF,Include
+2011,State Bird Provisions,0,0,None,SF,Include
+2011,La Costanera,0,0,None,SF,Include
+2011,The Dining Room at the Ritz Carlton,1,1,None,SF,Exclude
+2011,Applewood,1,0,Gained 1 Star(s),SF,Exclude
+2011,Dio Deka,1,0,Gained 1 Star(s),SF,Include
+2011,KUSAKABE,0,0,None,SF,Include
+2011,Murray Circle,1,1,None,SF,Include
+2011,Lazy Bear,0,0,None,SF,Include
+2011,Commonwealth,0,0,None,SF,Include
+2011,Rasa,0,0,None,SF,Include
+2011,Sushi Yoshizumi,0,0,None,SF,Include
+2011,Mourad Restaurant,0,0,None,SF,Include
+2011,Aster,0,0,None,SF,Include
+2011,Californios,0,0,None,SF,Include
+2011,Octavia,0,0,None,SF,Include
+2011,ALs Place,0,0,None,SF,Include
+2011,Trevese,0,1,Lost 1 Star(s),SF,Exclude
+2011,El Paseo,0,1,Lost 1 Star(s),SF,Include
+2011,Omakase,0,0,None,SF,Include
+2011,Lord Stanley,0,0,None,SF,Include
+2011,Nico,0,0,None,SF,Include
+2011,Wako Japanese Restaurant,0,0,None,SF,Include
+2011,Range Restaurant,0,1,Lost 1 Star(s),SF,Include
+2011,Mirepoix,1,0,Gained 1 Star(s),SF,Exclude
+2011,Fifth Floor,0,1,Lost 1 Star(s),SF,Exclude
+2011,Chez Panisse,0,1,Lost 1 Star(s),SF,Include
+2011,Kin Khao,0,0,None,SF,Include
+2011,Maruya,0,0,None,SF,Include
+2010,The French Laundry,3,Unknown,None,SF,Include
+2010,The Restaurant At Meadowood,2,Unknown,None,SF,Include
+2010,Manresa,2,Unknown,None,SF,Include
+2010,Coi,2,Unknown,None,SF,Include
+2010,Saison,0,Unknown,None,SF,Include
+2010,Benu,0,Unknown,None,SF,Include
+2010,Baumé,0,Unknown,None,SF,Include
+2010,Quince,1,Unknown,None,SF,Include
+2010,Atelier Crenn,0,Unknown,None,SF,Include
+2010,Acquerello,1,Unknown,None,SF,Include
+2010,Commis,1,Unknown,None,SF,Include
+2010,Aziza,1,Unknown,None,SF,Include
+2010,SolBar,1,Unknown,None,SF,Include
+2010,Bouchon,1,Unknown,None,SF,Include
+2010,Terra,1,Unknown,None,SF,Exclude
+2010,Madrona Manor,1,Unknown,None,SF,Exclude
+2010,Ame,1,Unknown,None,SF,Include
+2010,Plumed Horse,1,Unknown,None,SF,Include
+2010,Farmhouse Inn Restaurant,1,Unknown,None,SF,Include
+2010,Chez TJ,1,Unknown,None,SF,Include
+2010,La Toque,1,Unknown,None,SF,Include
+2010,Auberge du Soleil,1,Unknown,None,SF,Exclude
+2010,Luce,1,Unknown,None,SF,Exclude
+2010,Campton Place Restaurant,0,Unknown,None,SF,Include
+2010,Gary Danko,1,Unknown,None,SF,Include
+2010,The Village Pub,1,Unknown,None,SF,Include
+2010,Spruce,0,Unknown,None,SF,Include
+2010,Cyrus,2,Unknown,None,SF,Exclude
+2010,Boulevard,1,Unknown,None,SF,Include
+2010,Wakuriya,0,Unknown,None,SF,Include
+2010,La Folie,1,Unknown,None,SF,Include
+2010,Michael Mina,1,Unknown,None,SF,Include
+2010,Madera,0,Unknown,None,SF,Include
+2010,Terrapin Creek Cafe & Restaurant,0,Unknown,None,SF,Include
+2010,Sons & Daughters,0,Unknown,None,SF,Include
+2010,Redd,1,Unknown,None,SF,Include
+2010,Keiko  Nob Hill,0,Unknown,None,SF,Include
+2010,Masas,1,Unknown,None,SF,Include
+2010,All Spice,0,Unknown,None,SF,Include
+2010,SPQR,0,Unknown,None,SF,Include
+2010,Ubuntu,1,Unknown,None,SF,Exclude
+2010,Alexanders Steakhouse,0,Unknown,None,SF,Include
+2010,Frances,0,Unknown,None,SF,Include
+2010,étoile,1,Unknown,None,SF,Exclude
+2010,One Market Restaurant,1,Unknown,None,SF,Include
+2010,Fleur de Lys,1,Unknown,None,SF,Exclude
+2010,Santé,1,Unknown,None,SF,Include
+2010,State Bird Provisions,0,Unknown,None,SF,Include
+2010,La Costanera,0,Unknown,None,SF,Include
+2010,The Dining Room at the Ritz Carlton,1,Unknown,None,SF,Exclude
+2010,Applewood,0,Unknown,None,SF,Exclude
+2010,Dio Deka,0,Unknown,None,SF,Include
+2010,KUSAKABE,0,Unknown,None,SF,Include
+2010,Murray Circle,1,Unknown,None,SF,Include
+2010,Lazy Bear,0,Unknown,None,SF,Include
+2010,Commonwealth,0,Unknown,None,SF,Include
+2010,Rasa,0,Unknown,None,SF,Include
+2010,Sushi Yoshizumi,0,Unknown,None,SF,Include
+2010,Mourad Restaurant,0,Unknown,None,SF,Include
+2010,Aster,0,Unknown,None,SF,Include
+2010,Californios,0,Unknown,None,SF,Include
+2010,Octavia,0,Unknown,None,SF,Include
+2010,ALs Place,0,Unknown,None,SF,Include
+2010,Trevese,1,Unknown,None,SF,Exclude
+2010,El Paseo,1,Unknown,None,SF,Include
+2010,Omakase,0,Unknown,None,SF,Include
+2010,Lord Stanley,0,Unknown,None,SF,Include
+2010,Nico,0,Unknown,None,SF,Include
+2010,Wako Japanese Restaurant,0,Unknown,None,SF,Include
+2010,Range Restaurant,1,Unknown,None,SF,Include
+2010,Mirepoix,0,Unknown,None,SF,Exclude
+2010,Fifth Floor,1,Unknown,None,SF,Exclude
+2010,Chez Panisse,1,Unknown,None,SF,Include
+2010,Kin Khao,0,Unknown,None,SF,Include
+2010,Maruya,0,Unknown,None,SF,Include
